@@ -3,7 +3,8 @@
 
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: RoboKap Academy
-baseurl: /
+baseurl: ""
+url: learn.robokap.com
 morea_theme: cerulean
 timezone: Pacific/Honolulu
 morea_navbar_items:
