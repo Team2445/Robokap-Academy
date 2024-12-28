@@ -2,18 +2,16 @@
 # See https://morea-framework.github.io/docs/instructors/config-yml
 
 # SITE SPECIFIC: The following fields are typically changed for each site
-name: ICS 199
-baseurl: /morea
-morea_theme: spacelab
+name: RoboKap Academy
+baseurl: /Robokap-Academy
+morea_theme: cerulean
 timezone: Pacific/Honolulu
 morea_navbar_items:
-  - Prerequisites
   - Modules
   - Outcomes
   - Readings
   - Experiences
   - Assessments
-  - Schedule
 logger_factory:
   Morea: error
 
